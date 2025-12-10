@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-15T12:00:00Z",
+    "totalActive": 5,
+    "format": "standard"
+  },
+  "proxies": {
+    "BD": {
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "ip": "163.47.37.190",
+      "port": 1080,
+      "protocol": "socks5",
+      "speed": 85,
+      "uptime": 95.5,
+      "lastTested": "2024-01-15T10:30:00Z",
+      "active": true,
+      "provider": "PremiumProxy",
+      "latency": 120
+    },
+    "US": {
+      "country": "United States",
+      "countryCode": "US",
+      "ip": "104.200.135.46",
+      "port": 4145,
+      "protocol": "socks5",
+      "speed": 92,
+      "uptime": 98.2,
+      "lastTested": "2024-01-15T11:15:00Z",
+      "active": true,
+      "provider": "USProxyHub",
+      "latency": 45
+    },
+    "NL": {
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "ip": "128.199.37.92",
+      "port": 1080,
+      "protocol": "socks5",
+      "speed": 88,
+      "uptime": 96.8,
+      "lastTested": "2024-01-15T09:45:00Z",
+      "active": true,
+      "provider": "EuroProxy",
+      "latency": 65
+    },
+    "ES": {
+      "country": "Spain",
+      "countryCode": "ES",
+      "ip": "213.35.126.34",
+      "port": 10808,
+      "protocol": "socks5",
+      "speed": 78,
+      "uptime": 94.3,
+      "lastTested": "2024-01-15T12:20:00Z",
+      "active": true,
+      "provider": "SpainProxy",
+      "latency": 85
+    },
+    "SA": {
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "ip": "197.221.123.114",
+      "port": 4153,
+      "protocol": "socks5",
+      "speed": 72,
+      "uptime": 91.7,
+      "lastTested": "2024-01-15T08:50:00Z",
+      "active": true,
+      "provider": "MiddleEastProxy",
+      "latency": 150
+    }
+  },
+  "statistics": {
+    "byProtocol": { "socks5": 5 },
+    "byRegion": { "Asia": 2, "Europe": 2, "NorthAmerica": 1 },
+    "averageSpeed": 83,
+    "averageUptime": 95.3
+  }
+}
